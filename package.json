@@ -1,0 +1,12 @@
+{
+  "name": "supabasemcp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "LucaLunghi",
+  "type": "commonjs",
+  "main": "database/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
